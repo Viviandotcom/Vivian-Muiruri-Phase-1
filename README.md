@@ -45,6 +45,4 @@ cleaned_df = df6
 cleaned_df.to_csv('cleaned_data.csv', index = False)
 
 
-# Vivian-Muiruri-Phase-1
-# Vivian-Muiruri-Phase-1
-# Vivian-Muiruri-Phase-1
+
